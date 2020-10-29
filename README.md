@@ -1,2 +1,2 @@
 # Coming-soon-page
-![](img/web.png)
+![](img/web.jpeg)
